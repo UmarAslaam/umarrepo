@@ -1,3 +1,4 @@
 # umarrepo
-<br>
-Author: Umar Aslam
+
+This is my Umar Repository
+Author: (Umar Aslam)
